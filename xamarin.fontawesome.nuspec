@@ -12,7 +12,7 @@
     <description>XamarinForms FontAwesome 5.0.13 integration</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>XAML Xamarin Forms FontAwesom</tags>
+    <tags>XAML Xamarin Forms FontAwesome</tags>
 	
 	<dependencies>
 		<group targetFramework="MonoAndroid">

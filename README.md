@@ -1,4 +1,4 @@
-# wpf.fontawesome5
+# xamarin.fontawesome
 With **xamarin.fontawesome** you can use the popular icon library FontAwesome 5.0.13 within your Xamarin Forms applications.
 
 ## Installation

@@ -1,5 +1,5 @@
 # xamarin.fontawesome
-With **xamarin.fontawesome** you can use the popular icon library FontAwesome 5.0.13 within your Xamarin Forms applications. (Currently only Android is supported)
+With **xamarin.fontawesome** you can use the popular icon library FontAwesome 5.2.0 within your Xamarin Forms applications. (Currently only Android is supported)
 
 ## Installation
 You can download source and build project on your own or install package via nuget

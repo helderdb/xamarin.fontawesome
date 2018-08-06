@@ -2,14 +2,14 @@
 <package >
   <metadata>
     <id>xamarin.fontawesome</id>
-    <version>0.0.2</version>
+    <version>5.2.0</version>
     <title>xamarin.fontawesome</title>
     <authors>Ajid Welzel</authors>
     <owners>Ajid Welzel</owners>
     <licenseUrl>https://github.com/SubEthaSensOMatic/xamarin.fontawesome/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/SubEthaSensOMatic/xamarin.fontawesome</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>XamarinForms FontAwesome 5.1.0 integration</description>
+    <description>XamarinForms FontAwesome 5.2.0 integration</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>XAML Xamarin Forms FontAwesome</tags>

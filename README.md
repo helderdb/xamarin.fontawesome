@@ -1,5 +1,5 @@
 # xamarin.fontawesome
-With **xamarin.fontawesome** you can use the popular icon library FontAwesome 5.2.0 within your Xamarin Forms applications. (Currently only Android is supported)
+With **xamarin.fontawesome** you can use the popular icon library FontAwesome 5.2.0 within your Xamarin Forms applications. Android and iOS supported
 
 ## Installation
 You can download source and build project on your own or install package via nuget
@@ -7,6 +7,12 @@ You can download source and build project on your own or install package via nug
 ```PowerShell
 PM> Install-Package xamarin.fontawesome
 ```
+
+### iOS Installation
+
+Add the Font Awesome font files to your Resources folder in your project and add them in your Info.plist file.
+
+For more details on how to include custom fonts in iOS: [Click here](https://blog.xamarin.com/custom-fonts-in-ios/)
 
 ## Usage
 
